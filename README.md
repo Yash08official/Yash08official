@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash08official&label=Profile%20views&color=0e75b6&style=flat" alt="yash08official" /> </p>
 
-- 🔭 I’m currently working on [CareerSync - Final Year Project](https://github.com/Yash08official/CarrerSync-Final-Year-Project-2024)
+- 🔭 I’m currently working on [JavaScript - DSA](https://github.com/Yash08official/JavaScript-part-2_DSA)
 
 - 🌱 Currently deepening my knowledge in **Backend Development** and exploring **Cloud Technologies**
 
