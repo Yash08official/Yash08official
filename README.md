@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yash Prashantrao Wasankar</h1>
 <h3 align="center">Passionate Full-Stack Developer | MERN Stack Enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash08official&label=Profile%20views&color=0e75b6&style=flat" alt="yash08official" /> </p>
+ <p align="left">  </p>
 
 - 🔭 I’m currently working on [JavaScript - DSA](https://github.com/Yash08official/JavaScript-part-2_DSA)
 
@@ -23,6 +21,30 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/yash-wasankar-842886219/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
+
+<div align="center"> 
+  
+<!--   <h2>🐍 Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div> -->
+
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  
+  <a href="https://leetcode.com/u/yashwasankar008/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/yashwasankar008/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/yashwasankar008/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/yashwasankar008/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/yashwasankar008/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/yashwasankar008/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/yashwasankar008/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="jyot" height="200" width="200" /></a>
+  
+</p>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/yashwasankar008?theme=dark&font=Lato&ext=heatmap" />  
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -63,6 +85,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash08official&show_icons=true&locale=en&layout=compact" alt="yash08official" /></p>
 
