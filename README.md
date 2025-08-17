@@ -65,14 +65,25 @@ Hi 👋, I'm <span style="color:#ff9800;">Yash Prashantrao Wasankar</span>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights  
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash08official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yash08official&theme=tokyonight&hide_border=true&background=0D1117" height="160"/>
+
+  <!-- Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash08official&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E96&icon_color=58A6FF&text_color=FFFFFF" height="170"/>
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Yash08official&theme=radical&hide_border=true&background=0D1117&ring=FF6E96&fire=FF6E96&currStreakLabel=58A6FF" height="170"/>
+
 </div>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash08official&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash08official&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=FFFFFF" height="180"/>
+
 </div>
+
 
 ---
 
