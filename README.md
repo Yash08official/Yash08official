@@ -1,5 +1,3 @@
-![logo](https://github.com/Yash08official/Yash08official/blob/main/Futuristic%20Development%20Workspace%20with%20Neon%20Glow.png)
-
 <h1 align="center" style="font-size:40px; color:#00e6e6; text-shadow: 0px 0px 8px #00ffff;">
 Hi 👋, I'm <span style="color:#ff9800;">Yash Prashantrao Wasankar</span>
 </h1>
@@ -13,8 +11,14 @@ Hi 👋, I'm <span style="color:#ff9800;">Yash Prashantrao Wasankar</span>
 ## 👨‍💻 About Me
 <div align="center" style="background:#0d1117; border-radius:12px; padding:20px; box-shadow: 0px 0px 15px #00e6e6;">
   
-- 🔭 **Currently working on:** [JavaScript - DSA](https://github.com/Yash08official/JavaScript-part-2_DSA)  
-- 🌱 **Learning:** Backend Development, Cloud (Google Cloud & Azure), Blockchain, Cybersecurity  
+- 🔭 **Currently working on:**  
+   - 🚀 Building **Full-Stack Projects (MERN)**  
+   - 💡 Solving **DSA Problems (JavaScript & LeetCode)**  
+   - ☁️ Learning **Cloud Technologies (Google Cloud & Azure)**  
+   - 🔗 Exploring **Blockchain Development**  
+   - 🤖 Experimenting with **AI/ML Projects**  
+
+- 🌱 **Learning:** Backend Development, Cybersecurity, DevOps Basics  
 - 💼 **Internships:**  
    - 🟢 Junior Blockchain Developer Intern @ **Blocsys Technologies**  
    - 🟣 Salesforce Admin Virtual Internship @ **SmartBridge**  
