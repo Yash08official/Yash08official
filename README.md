@@ -1,37 +1,41 @@
-<h1 align="center" style="font-size:40px; color:#00e6e6; text-shadow: 0px 0px 8px #00ffff;">
-Hi 👋, I'm <span style="color:#ff9800;">Yash Prashantrao Wasankar</span>
-</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e6e6,100:ff9800&height=180&section=header&text=Hi%20👋,%20I'm%20Yash%20Prashantrao%20Wasankar&fontSize=35&fontColor=ffffff&fontAlignY=35"/>
+</p>
 
+<!-- Subheading -->
 <h3 align="center" style="color:#b0b0b0; font-weight:500;">
 🚀 Full-Stack Developer | MERN Stack | Salesforce Admin | Junior Blockchain Developer Intern | Exploring AI/ML, Cloud & Cybersecurity
 </h3>
 
 ---
 
+<!-- About Me -->
 ## 👨‍💻 About Me
 <div align="center" style="background:#0d1117; border-radius:12px; padding:20px; box-shadow: 0px 0px 15px #00e6e6;">
   
 - 🔭 **Currently working on:**  
-   - 🚀 Building **Full-Stack Projects (MERN)**  
-   - 💡 Solving **DSA Problems (JavaScript & LeetCode)**  
-   - ☁️ Learning **Cloud Technologies (Google Cloud & Azure)**  
-   - 🔗 Exploring **Blockchain Development**  
-   - 🤖 Experimenting with **AI/ML Projects**  
+   - 🚀 Full-Stack Projects (**MERN**)  
+   - 💡 **DSA Problems** (JavaScript & LeetCode)  
+   - ☁️ **Cloud Tech (Google Cloud & Azure)**  
+   - 🔗 **Blockchain Development**  
+   - 🤖 **AI/ML Projects**  
 
-- 🌱 **Learning:** Backend Development, Cybersecurity, DevOps Basics  
+- 🌱 **Learning:** Backend, Cybersecurity, DevOps  
 - 💼 **Internships:**  
    - 🟢 Junior Blockchain Developer Intern @ **Blocsys Technologies**  
    - 🟣 Salesforce Admin Virtual Internship @ **SmartBridge**  
    - 🔵 Web Development Intern @ **ICEICO Technologies Pvt. Ltd.**  
-- 🎓 **Education:** B.E. in **Computer Science Engineering (2024)**, Sipna College of Engineering & Technology  
-- 📌 **Projects:** 8+ (AI/ML, MERN, Salesforce, Java, Web Development, Blockchain, Cloud)  
-- ✍️ **Blogging my journey** on [My Blog](#)  
-- 📫 **Reach me:** yashwasankar008@gmail.com  
+- 🎓 **Education:** B.E. CSE (2024), Sipna College of Engineering & Technology  
+- 📌 **Projects:** 8+ (AI/ML, MERN, Salesforce, Java, Web, Blockchain, Cloud)  
+- ✍️ Sharing my journey on [Blog](#)  
+- 📫 Reach me at **yashwasankar008@gmail.com**  
 
 </div>
 
 ---
 
+<!-- Socials -->
 ## 🌐 Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/yash-wasankar-842886219/" target="_blank">
@@ -47,6 +51,7 @@ Hi 👋, I'm <span style="color:#ff9800;">Yash Prashantrao Wasankar</span>
 
 ---
 
+<!-- Tech Stack -->
 ## 💡 Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,java,python,c,git,postman,salesforce,azure,gcp,blockchain" />
@@ -54,39 +59,31 @@ Hi 👋, I'm <span style="color:#ff9800;">Yash Prashantrao Wasankar</span>
 
 ---
 
+<!-- Featured Projects -->
 ## 📂 Featured Projects
-✨ **Career Sync (Final Year Project – MERN)** → Published in *IJRASET*  
-🌦️ **Weather Forecast App** (JS, HTML, CSS, API-based)  
-🏥 **Hospital Management System** (Salesforce)  
-📚 **Responsive Book Website** (HTML, CSS, JS)  
-🤖 **My Virtual Assistant – Vk** (HTML, CSS, JS)  
-🧠 **AI/ML Sentiment Analysis** on Social Media  
-☕ **Java Projects** (Calculator, Mini-games)  
+- ✨ **Career Sync (Final Year Project – MERN)** → Published in *IJRASET*  
+- 🌦️ **Weather Forecast App** (JS, HTML, CSS, API-based)  
+- 🏥 **Hospital Management System** (Salesforce)  
+- 📚 **Responsive Book Website** (HTML, CSS, JS)  
+- 🤖 **My Virtual Assistant – Vk** (HTML, CSS, JS)  
+- 🧠 **AI/ML Sentiment Analysis** on Social Media  
+- ☕ **Java Projects** (Calculator, Mini-games)  
 
 ---
 
+<!-- GitHub Stats -->
 ## 📊 GitHub Insights  
-
 <div align="center">
 
-  <!-- Profile Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Yash08official&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E96&icon_color=58A6FF&text_color=FFFFFF" height="170"/>
-
-  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=Yash08official&theme=radical&hide_border=true&background=0D1117&ring=FF6E96&fire=FF6E96&currStreakLabel=58A6FF" height="170"/>
 
-</div>
-
-<div align="center">
-
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash08official&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=FFFFFF" height="180"/>
-
 </div>
-
 
 ---
 
+<!-- LeetCode -->
 ## 🏆 LeetCode Progress
 <div align="center">
   <a href="https://leetcode.com/u/yashwasankar008/" target="_blank">
@@ -96,20 +93,23 @@ Hi 👋, I'm <span style="color:#ff9800;">Yash Prashantrao Wasankar</span>
 
 ---
 
+<!-- Certifications -->
 ## 📝 Certifications
-🎓 Salesforce Admin Certified  
-🎓 Full Stack Web Development (Internshala)  
-🎓 Salesforce Admin Virtual Internship – SmartBridge  
+- 🎓 Salesforce Admin Certified  
+- 🎓 Full Stack Web Development (Internshala)  
+- 🎓 Salesforce Admin Virtual Internship – SmartBridge  
 
 ---
 
+<!-- Hobbies -->
 ## 🎨 Hobbies & Interests
-- 🏏 Cricket → Captain of winning teams in **10th & 2nd Year of Engineering**  
+- 🏏 Cricket → Captain of winning teams in **10th & 2nd Year**  
 - ✏️ Sketch Artist → **2-time competition winner**  
 - 💻 Exploring **AI/ML, Blockchain, Cloud, Cybersecurity**  
 
 ---
 
-<h3 align="center" style="color:#00e6e6; text-shadow:0px 0px 6px #00ffff;">
-⭐ From <a href="https://github.com/Yash08official" style="color:#ff9800;">Yash08official</a>
-</h3>
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9800,100:00e6e6&height=80&section=footer"/>
+</p>
