@@ -1,15 +1,19 @@
 ![logo](https://github.com/Yash08official/Yash08official/blob/main/Yash.png)
 
 <h1 align="center">Hi 👋, I'm Yash Prashantrao Wasankar</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Stack | Salesforce Admin | Exploring AI/ML, Cloud & Cybersecurity</h3>
+<h3 align="center">🚀 Full-Stack Developer | MERN Stack | Salesforce Admin | Junior Blockchain Developer Intern | Exploring AI/ML, Cloud & Cybersecurity</h3>
 
 ---
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on: [JavaScript - DSA](https://github.com/Yash08official/JavaScript-part-2_DSA)  
-- 🌱 Learning: **Backend Development, Cloud (Google Cloud & Azure), and Cybersecurity**  
-- 👨‍🎓 Graduated in **Computer Science Engineering (2024)** from Sipna College of Engineering & Technology  
-- 📌 Projects: 6+ (AI/ML, MERN Stack, Salesforce, Java, Web Development)  
+- 🌱 Learning: **Backend Development, Cloud (Google Cloud & Azure), Blockchain, and Cybersecurity**  
+- 💼 Internships:  
+  - Junior Blockchain Developer Intern @ **Blocsys Technologies**  
+  - Salesforce Admin Virtual Internship @ **SmartBridge**  
+  - Web Development Intern @ **ICEICO Technologies Pvt. Ltd.**  
+- 🎓 Graduated in **Computer Science Engineering (2024)** from Sipna College of Engineering & Technology  
+- 📌 Projects: **8+ (AI/ML, MERN Stack, Salesforce, Java, Web Development, Blockchain, Cloud)**  
 - ✍️ Sharing my journey on **[My Blog](#)**  
 - 📫 Reach me at: **yashwasankar008@gmail.com**  
 
@@ -32,8 +36,19 @@
 
 ### 💡 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,java,c,git,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,java,python,c,git,postman,salesforce,azure,gcp,blockchain" />
 </p>
+
+---
+
+### 📂 Featured Projects
+- **Career Sync (Final Year Project – MERN)** → Published in IJRASET  
+- **Weather Forecast App** (JS, HTML, CSS, API-based)  
+- **Hospital Management System (Salesforce)**  
+- **Responsive Book Website** (HTML, CSS, JS)  
+- **My Virtual Assistant – Vk** (HTML, CSS, JS)  
+- **AI/ML Sentiment Analysis on Social Media**  
+- **Java Projects** (Calculator, Mini-games)  
 
 ---
 
@@ -58,16 +73,16 @@
 ---
 
 ### 📝 Certifications
-- Salesforce Admin Certified  
-- Full Stack Web Development (Internshala)  
-- Salesforce Admin Virtual Internship – SmartBridge  
+- **Salesforce Admin Certified**  
+- **Full Stack Web Development (Internshala)**  
+- **Salesforce Admin Virtual Internship – SmartBridge**  
 
 ---
 
 ### 🎨 Hobbies & Interests
 - 🏏 Cricket (Captain of winning teams in 10th & 2nd year of Engineering)  
 - ✏️ Sketch Artist (2-time competition winner)  
-- 💻 Exploring **AI/ML, Cloud, Cybersecurity**  
+- 💻 Exploring **AI/ML, Blockchain, Cloud, Cybersecurity**  
 
 ---
 
