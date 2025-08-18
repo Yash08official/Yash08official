@@ -56,8 +56,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>  
 </p>
 
-
-
 ---
 
 ## 📂 Featured Projects
@@ -83,7 +81,6 @@
 - ☕ **Java Projects**  
   *(Calculator, Mini-Games – Core Java Concepts)*  
 
-
 ---
 
 ## 📊 GitHub Stats  
@@ -99,32 +96,6 @@
 ---
 
 ## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yash08official&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 🏅 LeetCode Progress  
-<p align="center">
-  <a href="https://leetcode.com/u/yashwasankar008/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/yashwasankar008?theme=dark&font=Nunito&ext=heatmap" />
-  </a>
-</p>
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash08official&show_icons=true&theme=radical" height="160"/>  
-  <img src="https://streak-stats.demolab.com?user=Yash08official&theme=radical" height="160"/>  
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash08official&layout=compact&theme=radical" height="160"/>  
-</p>
-
----
-
-## 🏆 Achievements
-
 <p align="center">
   🌟 Published Project in <b>IJRASET</b> <br>
   🎨 Certified Sketch Artist – Won 2 Drawing Competitions <br>
@@ -132,6 +103,7 @@
   🛠 Salesforce Admin Certified + 200+ Trailhead Badges <br>
   💻 Full Stack Development Course (Internshala) <br>
 </p>
+
 ---
 
 ## 🏅 LeetCode Progress  
