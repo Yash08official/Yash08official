@@ -1,99 +1,148 @@
-<!-- Banner -->
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Yash Prashantrao Wasankar</h1>
+<h3 align="center">🚀 Full-Stack Developer | MERN | Salesforce Admin | Blockchain Intern | Exploring AI/ML, Cloud & Cybersecurity</h3>
+
+---
+
+## 👨‍💻 About Me  
+- 🔭 Working on **MERN Projects, DSA, AI/ML, Blockchain & Cloud**  
+- 🌱 Currently learning **Backend, DevOps & Cybersecurity**  
+- 💼 Experience:  
+  - 🟢 **Junior Blockchain Developer Intern @ Blocsys Technologies**  
+  - 🟣 **Salesforce Admin Virtual Internship @ SmartBridge**  
+  - 🔵 **Web Development Intern @ ICEICO Technologies**  
+- 🎓 **B.E. CSE (2024), Sipna College of Engineering & Technology**  
+- 📌 **8+ Projects** across AI/ML, MERN, Salesforce, Java, Blockchain & Cloud  
+- 📫 Reach me: **yashwasankar008@gmail.com**  
+
+---
+
+## 💡 Tech Stack  
+
+### 🌐 Frontend  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e6e6,100:ff9800&height=180&section=header&text=Hi%20👋,%20I'm%20Yash%20Prashantrao%20Wasankar&fontSize=35&fontColor=ffffff&fontAlignY=35"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>  
 </p>
 
-<!-- Subheading -->
-<h3 align="center" style="color:#b0b0b0; font-weight:500;">
-🚀 Full-Stack Developer | MERN Stack | Salesforce Admin | Junior Blockchain Developer Intern | Exploring AI/ML, Cloud & Cybersecurity
-</h3>
+### ⚙️ Backend  
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>  
+</p>
+
+### 🗄️ Database  
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>  
+</p>
+
+### ☁️ Cloud & Platforms  
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=white"/>  
+</p>
+
+### 🛠️ Tools & Others  
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>  
+</p>
+
+
 
 ---
 
-<!-- About Me -->
-## 👨‍💻 About Me
-<div align="center" style="background:#0d1117; border-radius:12px; padding:20px; box-shadow: 0px 0px 15px #00e6e6;">
-  
-- 🔭 **Currently working on:**  
-   - 🚀 Full-Stack Projects (**MERN**)  
-   - 💡 **DSA Problems** (JavaScript & LeetCode)  
-   - ☁️ **Cloud Tech (Google Cloud & Azure)**  
-   - 🔗 **Blockchain Development**  
-   - 🤖 **AI/ML Projects**  
-
-- 🌱 **Learning:** Backend, Cybersecurity, DevOps  
-- 💼 **Internships:**  
-   - 🟢 Junior Blockchain Developer Intern @ **Blocsys Technologies**  
-   - 🟣 Salesforce Admin Virtual Internship @ **SmartBridge**  
-   - 🔵 Web Development Intern @ **ICEICO Technologies Pvt. Ltd.**  
-- 🎓 **Education:** B.E. CSE (2024), Sipna College of Engineering & Technology  
-- 📌 **Projects:** 8+ (AI/ML, MERN, Salesforce, Java, Web, Blockchain, Cloud)  
-- ✍️ Sharing my journey on [Blog](#)  
-- 📫 Reach me at **yashwasankar008@gmail.com**  
-
-</div>
-
----
-
-<!-- Socials -->
-## 🌐 Connect with Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/yash-wasankar-842886219/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yashwasankar008@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Yash08official" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
-
----
-
-<!-- Tech Stack -->
-## 💡 Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,java,python,c,git,postman,salesforce,azure,gcp,blockchain" />
-</div>
-
----
-
-<!-- Featured Projects -->
 ## 📂 Featured Projects
-- ✨ **Career Sync (Final Year Project – MERN)** → Published in *IJRASET*  
-- 🌦️ **Weather Forecast App** (JS, HTML, CSS, API-based)  
-- 🏥 **Hospital Management System** (Salesforce)  
-- 📚 **Responsive Book Website** (HTML, CSS, JS)  
-- 🤖 **My Virtual Assistant – Vk** (HTML, CSS, JS)  
-- 🧠 **AI/ML Sentiment Analysis** on Social Media  
-- ☕ **Java Projects** (Calculator, Mini-games)  
+
+- ✨ **Career Sync (MERN – Final Year Project)** → Published in *IJRASET*  
+  *(MERN Stack: MongoDB, Express.js, React, Node.js)*  
+
+- 🌦️ **Weather Forecast App**  
+  *(JavaScript, HTML, CSS, OpenWeather API)*  
+
+- 🏥 **Hospital Management System**  
+  *(Salesforce – Objects, Reports, Dashboards, Automation)*  
+
+- 📚 **Responsive Book Website**  
+  *(HTML, CSS, JavaScript – Fully Responsive Design)*  
+
+- 🤖 **My Virtual Assistant – Vk**  
+  *(HTML, CSS, JavaScript – Voice Commands & Interactions)*  
+
+- 🧠 **AI/ML Sentiment Analysis**  
+  *(Python, ML Algorithms – Analyzing Social Media Data)*  
+
+- ☕ **Java Projects**  
+  *(Calculator, Mini-Games – Core Java Concepts)*  
+
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Insights  
-<div align="center">
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash08official&show_icons=true&theme=radical" height="160"/>  
+  <img src="https://streak-stats.demolab.com?user=Yash08official&theme=radical" height="160"/>  
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash08official&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E96&icon_color=58A6FF&text_color=FFFFFF" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Yash08official&theme=radical&hide_border=true&background=0D1117&ring=FF6E96&fire=FF6E96&currStreakLabel=58A6FF" height="170"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash08official&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=FFFFFF" height="180"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash08official&layout=compact&theme=radical" height="160"/>  
+</p>
 
 ---
 
-<!-- LeetCode -->
-## 🏆 LeetCode Progress
-<div align="center">
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yash08official&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🏅 LeetCode Progress  
+<p align="center">
   <a href="https://leetcode.com/u/yashwasankar008/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/yashwasankar008?theme=dark&font=Nunito&ext=heatmap" />
   </a>
-</div>
+</p>
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash08official&show_icons=true&theme=radical" height="160"/>  
+  <img src="https://streak-stats.demolab.com?user=Yash08official&theme=radical" height="160"/>  
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash08official&layout=compact&theme=radical" height="160"/>  
+</p>
 
 ---
 
-<!-- Certifications -->
+## 🏆 Achievements
+
+<p align="center">
+  🌟 Published Project in <b>IJRASET</b> <br>
+  🎨 Certified Sketch Artist – Won 2 Drawing Competitions <br>
+  🏏 Cricket Captain – Led Teams to 2 Tournament Wins <br>
+  🛠 Salesforce Admin Certified + 200+ Trailhead Badges <br>
+  💻 Full Stack Development Course (Internshala) <br>
+</p>
+---
+
+## 🏅 LeetCode Progress  
+<p align="center">
+  <a href="https://leetcode.com/u/yashwasankar008/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/yashwasankar008?theme=dark&font=Nunito&ext=heatmap" />
+  </a>
+</p>
+
+---
+
 ## 📝 Certifications
 - 🎓 Salesforce Admin Certified  
 - 🎓 Full Stack Web Development (Internshala)  
@@ -101,15 +150,22 @@
 
 ---
 
-<!-- Hobbies -->
-## 🎨 Hobbies & Interests
-- 🏏 Cricket → Captain of winning teams in **10th & 2nd Year**  
+## 🎨 Hobbies
+- 🏏 Cricket → Captain of **winning teams (10th & 2nd Year)**  
 - ✏️ Sketch Artist → **2-time competition winner**  
 - 💻 Exploring **AI/ML, Blockchain, Cloud, Cybersecurity**  
 
 ---
 
-<!-- Footer -->
+## 🌐 Connect with Me  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9800,100:00e6e6&height=80&section=footer"/>
+  <a href="https://linkedin.com/in/yash-wasankar-842886219" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yashwasankar008@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Yash08official" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
