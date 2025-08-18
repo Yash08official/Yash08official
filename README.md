@@ -83,6 +83,32 @@
 
 ---
 
+## 📦 GitHub Repository Showcase  
+
+### 🚀 Highlighted Repos  
+- [Portfolio (TypeScript + Tailwind)](https://github.com/Yash08official/yash18-portfolio)  
+- [Weather App](https://github.com/Yash08official/weather-app)  
+- [Task Manager](https://github.com/Yash08official/task-manager)  
+- [Event Management System](https://github.com/Yash08official/event-management-system)  
+- [Online Bookstore](https://github.com/Yash08official/online-bookstore)  
+- [Vk AI Assistant](https://github.com/Yash08official/Vk-ai-assistant)  
+- [Career Sync](https://github.com/Yash08official/Career-Sync-Integrated-Training-and-Placement-Platform)  
+
+### 📘 Learning & DSA  
+- [LeetCode Daily Solutions](https://github.com/Yash08official/LeetCode-Daily-Solutions)  
+- [GFG 21 Days Challenge](https://github.com/Yash08official/GFG-21-days-Challenge)  
+- [JavaScript DSA – Part 1](https://github.com/Yash08official/Javascript-Part-1-Basic)  
+- [JavaScript DSA – Part 2](https://github.com/Yash08official/JavaScript-part-2_DSA)  
+- [My SQL Solutions](https://github.com/Yash08official/My-SQL-Solutions)  
+
+### 🛠️ Backend / Practice  
+- [Backend](https://github.com/Yash08official/backend)  
+- [Frontend](https://github.com/Yash08official/frontend)  
+- [Fetch Data (Node + MongoDB)](https://github.com/Yash08official/Fetch-data-from-mongodb-and-show-it-to-react-js-using-nodejs)  
+- [Send Data to Frontend](https://github.com/Yash08official/Send-data-to-frontend)  
+
+---
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yash08official&show_icons=true&theme=radical" height="160"/>  
