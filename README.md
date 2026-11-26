@@ -104,16 +104,16 @@ These projects are selected to show different parts of my development experience
       <a href="https://github.com/Yash08official/Career-Sync-Integrated-Training-and-Placement-Platform">Explore repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔐 ASP.NET Core JWT API</h3>
+      <h3>🔐 ASP.NET Core JWT API <sub>(Private Practice)</sub></h3>
       <p><strong>C# · ASP.NET Core Web API · EF Core · SQL Server</strong></p>
-      <p>A practical backend implementation focused on authentication and authorization rather than a tutorial-only walkthrough.</p>
+      <p>A hands-on backend practice project focused on implementing and testing authentication and authorization flows.</p>
       <ul>
-        <li>Login and token generation</li>
-        <li>Access and refresh token flow</li>
-        <li>Claims and role-based endpoint protection</li>
-        <li>Postman testing of successful and rejected requests</li>
+        <li>Login endpoint and access-token generation</li>
+        <li>Refresh-token generation and persistence</li>
+        <li>Claims-based identity and role-based authorization</li>
+        <li>Protected endpoints and Postman tests for 401 / 403 responses</li>
       </ul>
-      <p><em>Hands-on practice project; source repository is not currently linked here.</em></p>
+      <p><em>Private learning project — source code is intentionally not published in this public profile.</em></p>
     </td>
   </tr>
 </table>
