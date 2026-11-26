@@ -1,204 +1,255 @@
-<!--
-  Profile README for Yash08official
-  Keep this profile focused on real skills, practical work, and continuous learning.
--->
+<!-- ═══════════════════════════════════════════════════════════════════════
+     YASH WASANKAR · GITHUB PROFILE README
+     Keep claims current and link only to repositories that exist.
+═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Yash+Wasankar+%F0%9F%91%8B;Full-Stack+Developer;React.js+%7C+C%23+%7C+ASP.NET+Core+%7C+SQL;Building%2C+Learning%2C+and+Solving+Problems" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:06b6d4&text=YASH%20WASANKAR&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20BACKEND%20ENGINEERING&descAlignY=60&descSize=16&animation=fadeIn" alt="Yash Wasankar profile banner"/>
 
-  <h1>Yash Prashantrao Wasankar</h1>
-  <h3>Full-Stack Developer | React.js • ASP.NET Core • C# • SQL Server</h3>
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=React.js+%7C+C%23+%7C+ASP.NET+Core;Building+APIs.+Solving+problems.+Learning+every+day.;From+MERN+to+.NET+%E2%80%94+always+engineering." alt="Typing introduction"/>
+  </a>
 
   <p>
-    <a href="https://github.com/Yash08official">
-      <img src="https://img.shields.io/badge/GitHub-Yash08official-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-    </a>
-    <a href="https://linkedin.com/in/yash-wasankar-842886219">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:yashwasankar008@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
+    <a href="https://github.com/Yash08official"><img src="https://img.shields.io/badge/GitHub-Yash08official-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://linkedin.com/in/yash-wasankar-842886219"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:yashwasankar008@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=Yash08official&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Yash08official&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Hello, I'm Yash!
 
-I'm a Computer Science Engineering graduate who enjoys building web applications, developing backend APIs, and solving programming problems. I started with frontend and MERN development and have expanded my focus toward **C#, .NET, ASP.NET Core Web API, and SQL Server**.
+**Computer Science Engineer | Full-Stack Developer | Backend Engineering Enthusiast**
 
-- 🎓 **B.E. in Computer Science & Engineering** — Sipna College of Engineering & Technology (2024)
-- 💻 Interested in **Full-Stack Development and Backend Engineering**
-- ⚙️ Building with **React.js, C#, ASP.NET Core Web API, Entity Framework Core, and SQL Server**
-- 🔐 Practising backend security with **JWT, access/refresh tokens, claims, roles, and authorization**
-- 🧠 Strengthening problem-solving through **LeetCode, GeeksforGeeks, and DSA**
-- 🌱 Currently exploring advanced backend engineering: **middleware, caching, Redis, background services, API performance, rate limiting, and CORS**
-- 📫 **Email:** yashwasankar008@gmail.com
+I enjoy turning ideas into working software. My development journey began with frontend and MERN applications, grew through Java and JavaScript problem-solving, and has now expanded into the **C# / .NET ecosystem**.
 
-> I believe in learning by building: understand the concept, implement it, test it, and improve it.
+I care about understanding how things work under the hood—from a React component and a REST endpoint to database relationships, authentication flows, and API performance.
+
+- 🎓 **B.E. Computer Science & Engineering** — Sipna College of Engineering & Technology, 2024
+- 💻 **Primary direction:** Full-Stack Development with React.js and ASP.NET Core
+- ⚙️ **Backend:** C#, .NET, ASP.NET Core Web API, Entity Framework Core
+- 🗄️ **Data:** SQL Server, SQL, MongoDB
+- 🔐 **Security practice:** JWT, access tokens, refresh tokens, claims, roles, authorization
+- 🧠 **Problem solving:** Java, JavaScript, LeetCode, GeeksforGeeks
+- 🌱 **Currently exploring:** Middleware, caching, Redis, background services, file handling, pagination, API optimization, rate limiting, and CORS
+- 📩 **Contact:** yashwasankar008@gmail.com
+
+> **My approach:** Learn the concept → build it → test it → understand the trade-offs → improve it.
 
 ---
 
-## 🧭 Current Focus
+## 🎯 What I'm focused on now
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Backend Engineering</h3>
+      <ul>
+        <li>C# and modern .NET</li>
+        <li>ASP.NET Core Web API</li>
+        <li>Entity Framework Core</li>
+        <li>SQL Server and data modelling</li>
+        <li>JWT authentication and authorization</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 Full-Stack Development</h3>
+      <ul>
+        <li>React.js and JavaScript</li>
+        <li>TypeScript and Tailwind CSS</li>
+        <li>REST API integration</li>
+        <li>Node.js and Express.js</li>
+        <li>Git, GitHub, and Postman</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 Practical API Security</h3>
+      <ul>
+        <li>JWT access and refresh tokens</li>
+        <li>Claims and role-based authorization</li>
+        <li>Protected endpoints</li>
+        <li>API testing with Postman</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Problem Solving</h3>
+      <ul>
+        <li>Data structures and algorithms</li>
+        <li>Pattern-based problem solving</li>
+        <li>Solution documentation</li>
+        <li>Historical coding archives</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Technologies & Tools
 
 <div align="center">
 
-| Area | Focus |
-|---|---|
-| Backend | C#, .NET, ASP.NET Core Web API |
-| Data | SQL Server, Entity Framework Core, LINQ |
-| Security | JWT, refresh tokens, claims, roles, authorization |
-| Frontend | React.js, JavaScript, TypeScript, Tailwind CSS |
-| Engineering | Middleware, caching, Redis, background services, API optimization |
-| Problem Solving | DSA with Java and JavaScript |
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cs,java,js,ts,python,cpp" alt="C sharp, Java, JavaScript, TypeScript, Python and C++"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" alt="React, HTML, CSS, Tailwind and Vite"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mongodb,mysql" alt=".NET, Node.js, Express, MongoDB and MySQL"/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,azure" alt="Git, GitHub, Postman, VS Code and Azure"/>
 
 </div>
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-</p>
-
-### Backend & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-</p>
-
-### Databases & Developer Tools
-<p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</p>
-
-### Additional Exposure
-<p>
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js"/>
-</p>
+**Also worked with:** SQL Server, Entity Framework Core, Salesforce, Web3.js, MongoDB Atlas, MongoDB Compass.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-| Project | What it demonstrates |
-|---|---|
-| [Career Sync](https://github.com/Yash08official/Career-Sync-Integrated-Training-and-Placement-Platform) | MERN-based training and placement platform; final-year team project, published in IJRASET |
-| [Yash Portfolio](https://github.com/Yash08official/Yash_Portfolio) | Personal portfolio and frontend presentation |
-| [EduNexus AI](https://github.com/Yash08official/edunexus-ai) | B2B AI learning platform concept with personalized tutoring and progress tracking |
-| [Event Management System](https://github.com/Yash08official/event-management-system) | Web application project |
-| [Online Bookstore](https://github.com/Yash08official/online-bookstore) | Bookstore web application |
-| [Weather Forecast Application](https://github.com/Yash08official/Weather-Forecast-Application) | Weather application using JavaScript and an external weather API |
-| [Vk AI Assistant](https://github.com/Yash08official/Vk-ai-assistant) | Browser-based virtual assistant using JavaScript and voice interactions |
-| [Lagunitas Website](https://github.com/Yash08official/Lagunitas-Website) | Interactive promotional website with animations |
-| [Task Manager](https://github.com/Yash08official/task-manager) | Task management with browser local storage |
+A selection of projects and repositories from my development journey.
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Career Sync</h3>
+      <p>Integrated training and placement platform built as a final-year team project using the MERN stack. The project was published in IJRASET.</p>
+      <a href="https://github.com/Yash08official/Career-Sync-Integrated-Training-and-Placement-Platform">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌦️ Weather App</h3>
+      <p>Responsive weather application using HTML, CSS, JavaScript, and the OpenWeatherMap API to display current weather information.</p>
+      <a href="https://github.com/Yash08official/weather-app">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗓️ Event Management System</h3>
+      <p>Web application project focused on event management workflows.</p>
+      <a href="https://github.com/Yash08official/event-management-system">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Online Bookstore</h3>
+      <p>Bookstore web application exploring frontend and application development concepts.</p>
+      <a href="https://github.com/Yash08official/online-bookstore">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✅ Task Manager</h3>
+      <p>Responsive task manager with add, complete, delete, and localStorage persistence features.</p>
+      <a href="https://github.com/Yash08official/task-manager">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎙️ Vk AI Assistant</h3>
+      <p>Browser-based virtual assistant exploring voice commands and JavaScript interactions.</p>
+      <a href="https://github.com/Yash08official/Vk-ai-assistant">View repository →</a>
+    </td>
+  </tr>
+</table>
 
-## 🧩 Problem Solving & Learning Repositories
-
-I use GitHub to document my learning, keep solutions organised, and track improvement over time.
-
-- 📘 [GFG Historical Solutions](https://github.com/Yash08official/GFG-Historical-Solutions) — archive of 600+ solved GeeksforGeeks problems
-- 💡 [LeetCode Historical Solutions](https://github.com/Yash08official/LeetCode-Historical-Solutions) — organised archive of LeetCode practice
-- 🔥 [LeetCode Daily Solutions](https://github.com/Yash08official/LeetCode-Daily-Solutions) — daily problem-solving practice in Java and JavaScript
-- 🏅 [GFG 21 Days Challenge](https://github.com/Yash08official/GFG-21-days-Challenge) — consistency and DSA practice
-- 🗃️ [SQL Solutions](https://github.com/Yash08official/My-SQL-Solutions) — SQL query practice
-- ☕ [Java Course & Practice](https://github.com/Yash08official/Java-Course-Updated-2024-) — Java notes, examples, and exercises
-- 🟨 [JavaScript Fundamentals](https://github.com/Yash08official/Javascript-Part-1-Basic) — JavaScript learning notes and examples
-- 🧠 [JavaScript DSA](https://github.com/Yash08official/JavaScript-part-2_DSA) — data structures and algorithms in JavaScript
-
----
-
-## 🏗️ Backend Development Journey
-
-My backend learning has progressed from Node.js and Express to building APIs with the .NET ecosystem.
-
-- C# fundamentals, OOP, advanced C#, delegates, events, LINQ, and asynchronous programming
-- .NET fundamentals and ASP.NET Core Web API
-- SQL Server and Entity Framework Core
-- REST API development and testing with Postman
-- JWT authentication with access tokens, refresh tokens, claims, roles, and authorization
-- Current practice: middleware and other advanced backend concepts
-
-I focus on understanding **why** a backend feature is needed, how it works, and how to test it—not just copying code.
-
----
-
-## 🏆 Highlights
-
-- 📄 **Research publication:** Career Sync project published in IJRASET (2024)
-- 🧑‍💻 **Development experience:** Web development and Java full-stack internship experience
-- ☁️ **Salesforce learning:** Virtual internship experience and 200+ Trailhead badges
-- 🧩 **DSA consistency:** Long-term practice across GeeksforGeeks and LeetCode
-- ✏️ **Creative side:** Sketch artist and two-time drawing competition certificate winner
-- 🏏 **Teamwork:** Cricket team captain; part of teams that won tournaments
+**More repositories:** [Browse all my public projects](https://github.com/Yash08official?tab=repositories).
 
 ---
 
-## 📈 GitHub at a Glance
+## 🧠 My Problem-Solving Journey
+
+Consistency in problem-solving has become a major part of my engineering journey. I maintain dedicated repositories so that solutions, metadata, and learning notes remain organised and useful for revision.
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yash08official&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Yash's GitHub stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Yash08official&theme=tokyonight&hide_border=true" alt="Yash's GitHub streak"/>
+  <a href="https://github.com/Yash08official/LeetCode-Historical-Solutions">
+    <img src="https://img.shields.io/badge/LeetCode_Archive-848_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode archive"/>
+  </a>
+  <a href="https://github.com/Yash08official/GFG-Historical-Solutions">
+    <img src="https://img.shields.io/badge/GeeksforGeeks_Archive-720_Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks archive"/>
+  </a>
+</div>
+
+| Repository | What you'll find |
+|---|---|
+| [LeetCode Historical Solutions](https://github.com/Yash08official/LeetCode-Historical-Solutions) | Archive indexed with 848 solved-problem records, difficulty breakdowns, and documented solutions |
+| [GFG Historical Solutions](https://github.com/Yash08official/GFG-Historical-Solutions) | Verified archive cataloguing 720 solved problems, metadata, and recovered original solutions |
+| [Data Structures & Algorithms](https://github.com/Yash08official/data-structures-algorithms) | Structured DSA study plan and practice topics |
+| [My SQL Solutions](https://github.com/Yash08official/My-SQL-Solutions) | SQL practice and query solutions |
+| [Java Course](https://github.com/Yash08official/Java-Course-Updated-2024-) | Java learning notes and coding practice |
+
+<p align="center">
+  <a href="https://leetcode.com/u/yashwasankar008/"><img src="https://leetcard.jacoblin.cool/yashwasankar008?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode profile card"/></a>
+</p>
+
+---
+
+## 📚 Learning Milestones
+
+My learning path is focused on building a strong foundation before moving to more advanced backend topics.
+
+- ✅ C# fundamentals, OOP, and advanced C#
+- ✅ .NET fundamentals and ASP.NET Core Web API
+- ✅ SQL Server and Entity Framework Core
+- ✅ Authentication and authorization with a practical JWT API
+- ✅ Access tokens, refresh tokens, claims, and role-based authorization
+- 🔄 Advanced backend development: middleware, caching, Redis, background services, file operations, pagination, performance, rate limiting, and CORS
+
+I practise these concepts through implementation and API testing—not just theory.
+
+---
+
+## 🏅 Experience & Achievements
+
+- **Java Full-Stack Internship** — practical training and development experience in Pune
+- **Web Development Internship** — ICEICO Technologies
+- **Salesforce Virtual Internship** — SmartBridge
+- **Blockchain Development Experience** — TypeScript, Node.js, Web3.js, React, and Tailwind CSS
+- **Research Publication** — Career Sync project published in IJRASET (2024)
+- **Trailhead** — 200+ Salesforce learning badges
+- **Creative achievement** — two-time drawing competition certificate winner
+- **Teamwork** — cricket team captain and part of tournament-winning teams
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yash08official&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub statistics"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=Yash08official&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
   <br/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash08official&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash08official&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used programming languages"/>
+</div>
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yash08official&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
 </div>
 
 ---
 
-## 🧑‍💻 LeetCode
+## 🤝 Let's Build Something
+
+I'm interested in connecting with developers, exchanging ideas, learning from real-world engineering challenges, and exploring opportunities in full-stack and backend development.
 
 <div align="center">
-  <a href="https://leetcode.com/u/yashwasankar008/">
-    <img src="https://leetcard.jacoblin.cool/yashwasankar008?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode profile card"/>
-  </a>
-</div>
 
----
+  <a href="https://linkedin.com/in/yash-wasankar-842886219"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:yashwasankar008@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail" alt="Email"/></a>
+  <a href="https://github.com/Yash08official"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 
-## 🤝 Let's Connect
+  <br/><br/>
 
-<div align="center">
-  <a href="https://linkedin.com/in/yash-wasankar-842886219">
-    <img src="https://img.shields.io/badge/LinkedIn-Yash_Wasankar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:yashwasankar008@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-yashwasankar008-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Yash08official">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  **“Great software is built one thoughtful improvement at a time.”**
 
-  <h3>“Keep building. Keep learning. Keep improving.”</h3>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f172a,50:1d4ed8,100:06b6d4" alt="Footer banner"/>
+
 </div>
